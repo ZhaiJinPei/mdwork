@@ -1308,6 +1308,235 @@ This tutorial series focuses on the Mockito library – from basic to more advan
 ### [A Guide to @RepeatedTest in Junit 5](https://www.baeldung.com/junit-5-repeated-test)
 
 # Git
+### [Git for Beginners: The Definitive Practical Guide](https://www.baeldung.com/git-guide)
+
+A step-by-step guide to Git, this article discusses the most commonly used commands. Learn the basics, the Git workflow, branching and even some advanced techniques like modifying your commit history.
+
 ## [Understanding Git’s fork and clone Operations](https://www.baeldung.com/git-fork-vs-clone)
+
 Find out the differences between two seemingly similar Git operations – fork and clone.
+
+### [How to Fix Git “Refusing to Merge Unrelated Histories”](https://www.baeldung.com/git-merge-unrelated-histories-error)
+
+Learn how to fix the “Refusing to Merge Unrelated Histories” error in Git.
+
+### [Guide to Undo a git rebase](https://www.baeldung.com/git-undo-rebase)
+
+Learn about two popular techniques to undo a git rebase operation
+
+### [Find the Differences Between Two Git Branches](https://www.baeldung.com/git-branches-differences)
+
+Learn methods of finding the differences between Git branches on Linux.
+
+### [Modify a Specified Commit in Git](https://www.baeldung.com/git-modify-commit)
+
+A quick and practical guide to modifying a git commit.
+
+### [How to Modify Git Commit Messages](https://www.baeldung.com/git-commit-message-changes)
+
+Learn how to modify Git commit messages.
+
+### [Remove File From Git Repository Without Deleting It Locally](https://www.baeldung.com/git-remove-file-without-deleting-it)
+
+Learn how to remove a file or directory from a Git repository but keep its local copy
+
+### [Difference Between git merge and rebase](https://www.baeldung.com/git-merge-vs-rebase)
+
+Explore the basic difference between git merge and git rebase which every developer should know while working with git VCS.
+
+### [How to Get the Current Branch Name in Git](https://www.baeldung.com/git-current-branch-name)
+
+Learn how to get the Git branch name we’re currently working on
+
+### [Delete a Git Branch Locally and Remotely](https://www.baeldung.com/git-delete-branch-locally-remotely)
+
+Learn how to delete Git branches
+
+### [Move Existing, Uncommitted Work to a New Branch in Git](https://www.baeldung.com/git-move-uncommitted-work-to-new-branch)
+
+Learn a couple of quick ways to move uncommitted changes to a new Git branch
+
+### [How to Discard Unstaged Changes in Git](https://www.baeldung.com/git-discard-unstaged-changes)
+
+Learn how to remove files that are not staged for commit to clean up our working directory.
+
+### [Difference Between assume-unchanged and skip-worktree in Git](https://www.baeldung.com/git-assume-unchanged-skip-worktree)
+
+Learn the differences between the —*assume-unchanged* and —*skip-worktree* options of Git’s *update-index* command.
+
+### [How to Recover a Dropped Stash in Git](https://www.baeldung.com/git-recover-dropped-stash)
+
+The git stash can be used to store changes temporarily. If we drop these changes, we can still get them back again. We look at how to re-apply a stashed change, and how to find it.
+
+### [Remove a Large File from Commit History in Git](https://www.baeldung.com/git-remove-file-commit-history)
+
+Learn how to remove large files from the commit history of a git repository using various tools.
+
+### [Removing Tracked Files With .gitignore](https://www.baeldung.com/git-remove-tracked-files-gitignore)
+
+Learn how to remove currently tracked files from a Git index after adding them to the *.gitignore* file.
+
+### [Undo and Revert Commits in Git](https://www.baeldung.com/git-revert-commit)
+
+Learn the safest way to undo or revert commits in a Git repository.
+
+### [Understanding Detached HEAD in Git](https://www.baeldung.com/git-detached-head)
+
+Explore what a detached HEAD in Git is and how it works.
+
+### [Hosting a Maven Repository on GitHub](https://www.baeldung.com/maven-repo-github)
+
+A quick and practical guide to hosting Maven repositories on GitHub.
+
+### [A Guide to JGit](https://www.baeldung.com/jgit)
+
+Learn the basics of using JGit – a Git version control written in Java.
+
+### [Introduction to EGit](https://www.baeldung.com/egit)
+
+Discover the EGit tool for Eclipse.
+
+### [Injecting Git Information Into Spring](https://www.baeldung.com/spring-git-information)
+
+Quick and practical guide to retrieving and injecting Git information using Spring and Maven
+
+# IDEA
+
+### [What Is the .idea Directory?](https://www.baeldung.com/intellij-idea-directory)
+
+IntelliJ IDEA stores its settings in the .idea directory. We look at what’s stored here and whether to share the contents via source control.
+
+### [How to Set Up Environment Variables in IntelliJ IDEA](https://www.baeldung.com/intellij-idea-environment-variables)
+
+A quick and practical guide to setting up environment variables with Intellij IDEA.
+
+### [How to Permanently Enable Line Numbers in IntelliJ IDEA?](https://www.baeldung.com/intellij-idea-activate-line-numbers)
+
+A quick and practical guide on enabling line numbers in IntelliJ IDEA.
+
+### [Debugging an Application Running in Docker With IntelliJ IDEA](https://www.baeldung.com/docker-debug-app-with-intellij)
+
+Learn different configuration options we can use to debug a dockerized application in IntelliJ
+
+### [Common Shortcuts in IntelliJ IDEA](https://www.baeldung.com/intellij-idea-shortcuts)
+
+A quick and practical guide to Intellij IDEA shortcuts.
+
+### [Writing IntelliJ IDEA Plugins Using Gradle](https://www.baeldung.com/intellij-idea-plugins-gradle)
+
+Learn how to write your own IntelliJ plugin using Gradle.
+
+### [Remote Debugging with IntelliJ IDEA](https://www.baeldung.com/intellij-remote-debugging)
+
+Learn how to debug a remote Java process using IntelliJ
+
+### [An Introduction to Refactoring with IntelliJ IDEA](https://www.baeldung.com/intellij-refactoring)
+
+Learn a few helpful tips for working more productively with IntelliJ.
+
+### [Adding a Copyright License Header for Java Source Files in IntelliJ IDEA](https://www.baeldung.com/intellij-copyright-license-header)
+
+Learn how to configure IntelliJ IDEA to add license headers automatically to your project files.
+
+### [Writing IntelliJ IDEA Plugins](https://www.baeldung.com/intellij-new-custom-plugin)
+
+Learn how to write your own plugins for IntelliJ IDEA
+
+### [Java Static Analysis Tools in Eclipse and IntelliJ IDEA](https://www.baeldung.com/java-static-analysis-tools)
+
+Learn how to use PMD and Cobertura – static analysis tools for Java – and how they integrate with Eclipse and IntelliJ IDEA.
+
+# JavaWeb
+
+### [>> Set a Parameter in an HttpServletRequest in Java](https://www.baeldung.com/java-servlet-request-set-parameter)
+
+### [>> Reading a JSP Variable From JavaScript](https://www.baeldung.com/java-jsp-read-variable-js)
+
+### [>> Java IllegalStateException: “getInputStream() has already been called for this request”](https://www.baeldung.com/java-servletrequest-illegalstateexception)
+
+### [>> Validating IPv4 Address in Java](https://www.baeldung.com/java-validate-ipv4-address)
+
+### [>> Limiting the Requests per Second With WebClient](https://www.baeldung.com/spring-webclient-limit-requests-per-second)
+
+### [>> Difference Between WAR and EAR Files](https://www.baeldung.com/war-vs-ear-files)
+
+# Jackson JSON Tutorial
+
+**This tutorial** illustrates the most common [**Jackson 2**](https://github.com/FasterXML/jackson) tasks, problems and solutions while marshalling and unmarshalling JSON.
+
+## **Basic Jackson Marshalling**
+
+### **[Jackson Annotation Examples](https://www.baeldung.com/jackson-annotations)\**(popular)\****
+
+### **[Intro to the Jackson ObjectMapper](https://www.baeldung.com/jackson-object-mapper-tutorial)\**(popular)\****
+
+### [Jackson Ignore Properties on Marshalling](https://www.baeldung.com/jackson-ignore-properties-on-serialization)
+
+### **[Ignore Null Fields with Jackson](https://www.baeldung.com/jackson-ignore-null-fields)\**(popular)\****
+
+### [Jackson - Change Name of Field](https://www.baeldung.com/jackson-name-of-property)
+
+### [Jackson – Decide What Fields Get Serialized/Deserialized](https://www.baeldung.com/jackson-field-serializable-deserializable-or-not)
+
+### [XML Serialization and Deserialization with Jackson](https://www.baeldung.com/jackson-xml-serialization-and-deserialization)
+
+### [Jackson – Marshall String to JsonNode](https://www.baeldung.com/jackson-json-to-jsonnode)
+
+### [Using Optional with Jackson](https://www.baeldung.com/jackson-optional)
+
+## Basic Jackson Unmarshalling
+
+### [Jackson - Unmarshalling JSON with Unknown Properties](https://www.baeldung.com/jackson-deserialize-json-unknown-properties)
+
+### [Jackson vs Gson](https://www.baeldung.com/jackson-vs-gson)
+
+## Advanced Jackson Marshalling
+
+### [Map Serialization and Deserialization with Jackson](https://www.baeldung.com/jackson-map)
+
+### [Serialize Only Fields that meet a Custom Criteria with Jackson](https://www.baeldung.com/jackson-serialize-field-custom-criteria)
+
+### [How To Serialize and Deserialize Enums with Jackson](https://www.baeldung.com/jackson-serialize-enums)
+
+### [Jackson - JsonMappingException (No serializer found for class)](https://www.baeldung.com/jackson-jsonmappingexception)
+
+### [Jackson Date](https://www.baeldung.com/jackson-serialize-dates)
+
+### [Jackson JSON Views](https://www.baeldung.com/jackson-json-view-annotation)
+
+### [Jackson Exceptions – Problems and Solutions](https://www.baeldung.com/jackson-exception)
+
+### [Convert XML to JSON Using Jackson](https://www.baeldung.com/jackson-convert-xml-json)
+
+### [Serialize and Deserialize Booleans as Integers With Jackson](https://www.baeldung.com/jackson-booleans-as-integers)
+
+## Advanced Jackson Unmarshalling
+
+### [Jackson - Unmarshall to Collection/Array](https://www.baeldung.com/jackson-collection-array)
+
+### [Getting Started with Custom Deserialization in Jackson](https://www.baeldung.com/jackson-deserialization)
+
+## Advanced Jackson Usage
+
+### [Compare Two JSON Objects with Jackson](https://www.baeldung.com/jackson-compare-two-json-objects)
+
+### [Jackson – Bidirectional Relationships](https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion)
+
+### [Working with Tree Model Nodes in Jackson](https://www.baeldung.com/jackson-json-node-tree-model)
+
+### [More Jackson Annotations](https://www.baeldung.com/jackson-advanced-annotations)
+
+### [Inheritance with Jackson](https://www.baeldung.com/jackson-inheritance)
+
+### [Mapping Nested Values with Jackson](https://www.baeldung.com/jackson-nested-values)
+
+### [Guide to @JsonFormat in Jackson](https://www.baeldung.com/jackson-jsonformat)
+
+### [Mapping a Dynamic JSON Object with Jackson](https://www.baeldung.com/jackson-mapping-dynamic-object)
+
+### [Spring Boot: Customize the Jackson ObjectMapper](https://www.baeldung.com/spring-boot-customize-jackson-objectmapper)
+
+
+
+
 
